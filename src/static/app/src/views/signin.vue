@@ -185,8 +185,8 @@ export default {
 			</div>
 		</div>
 		<small class="text-muted pb-3 d-block w-100 text-center mt-3">
-			WGDashboard {{ this.version }} | Developed with ❤️ by 
-			<a href="https://github.com/donaldzou" target="_blank"><strong>Donald Zou</strong></a>
+			WGDashboard {{ this.version }} | Improved with ❤️ by 
+			<a href="https://github.com/griffin-dox" target="_blank"><strong>Team Cyfer Trace</strong></a>
 		</small>
 		<div class="messageCentre text-body position-absolute d-flex">
 			<TransitionGroup name="message" tag="div"
